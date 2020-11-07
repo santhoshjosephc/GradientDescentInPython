@@ -9,7 +9,6 @@ Created on Wed Aug 26 23:36:42 2020
 import pandas as pd
 import pylab
 import numpy as np
-#df = pd.read_csv('C:\Users\santhosh\SanthoshPythonFile\Restaurant.csv', names=['x','y'])
 df = pd.read_csv('Restaurant.csv',  names=['x','y'])
 
 # Plot the variable to see the relationship. 
