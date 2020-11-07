@@ -21,7 +21,7 @@ y = df['y']
 #You should run the program for various value of alpha and see the impact of it.  
 
 alpha = 0.001
-pylab.show())
+pylab.show()
 
 #This function calculuates how much error is there in the prediction. Basically it just finds the square of the difference. If you dont square it, 
 #a positive error and a negative error will cancel out each other which is not great. It give a false sense that the error is lower than what it actually is. 
